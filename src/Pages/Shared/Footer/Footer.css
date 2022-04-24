@@ -1,0 +1,10 @@
+.footer-text{
+    color: white;
+}
+.footer-area{
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-items: center;
+    justify-content: center;
+}
